@@ -1,7 +1,11 @@
 Passaggi per avviare
 Scarica il programma 
 Scarica le librerie
-#pip list
+Package            Version
+------------------ ---------
+mysql-connector    2.2.9
+requests           2.31.0
+------------------ ---------
 Avvia il programma 
 
 ENJOY!
