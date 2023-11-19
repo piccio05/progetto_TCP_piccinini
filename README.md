@@ -1,5 +1,6 @@
 Passaggi per avviare
-Scarica il programma 
+Scarica il programma
+Scarica i database
 Scarica le librerie
 Package            Version
 ------------------ ---------
